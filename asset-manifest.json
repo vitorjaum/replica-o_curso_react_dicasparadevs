@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/replicacao_curso_react_dicasparadevs/static/css/main.fd03cff7.css",
+    "main.js": "/replicacao_curso_react_dicasparadevs/static/js/main.8cd90a2c.js",
+    "index.html": "/replicacao_curso_react_dicasparadevs/index.html",
+    "main.fd03cff7.css.map": "/replicacao_curso_react_dicasparadevs/static/css/main.fd03cff7.css.map",
+    "main.8cd90a2c.js.map": "/replicacao_curso_react_dicasparadevs/static/js/main.8cd90a2c.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd03cff7.css",
+    "static/js/main.8cd90a2c.js"
+  ]
+}
